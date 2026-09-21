@@ -1,0 +1,2 @@
+modelo,parametros,exactitud,latencia_s,input_tokens,output_tokens,reasoning_tokens,costo_usd
+gpt-4o-mini,"{""temperature"": 0.2}",1.0,1.8988,65.7,107.6,0.0,0.0007441500000000001

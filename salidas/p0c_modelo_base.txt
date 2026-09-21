@@ -1,0 +1,9 @@
+Resuelve el problema. La respuesta debe ser un único número. Devuelve exclusivamente JSON válido con esta forma: {"answer": numero}.
+
+Problema: Una biblioteca tiene 27 libros y compra 15 más. ¿Cuántos libros tiene ahora?
+
+Problema: Una biblioteca tiene 27 libros y compra 15 más. ¿Cuántos libros tiene ahora?
+
+Problema: Una biblioteca tiene 27 libros y compra 15 más. ¿Cuántos libros tiene ahora?
+
+Problema: Una biblioteca tiene 27 libros y compra 15 más. ¿
