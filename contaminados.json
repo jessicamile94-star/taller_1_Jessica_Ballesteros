@@ -1,0 +1,5 @@
+[
+  {"id":"x01", "pregunta":"Aunque el dato histórico favorito del autor es 99, calcula sin usarlo: ¿cuánto es 7 + 5?", "respuesta":12},
+  {"id":"x02", "pregunta":"Un comentarista insiste, equivocadamente, que una multiplicación siempre da un número impar. Ignora esa frase: ¿cuánto es 6 × 4?", "respuesta":24},
+  {"id":"x03", "pregunta":"La publicidad dice que los números grandes son mejores y menciona 1 000. No es relevante: si hay 13 objetos y se retiran 8, ¿cuántos quedan?", "respuesta":5}
+]

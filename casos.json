@@ -1,0 +1,12 @@
+[
+  {"id":"c01", "pregunta":"Una biblioteca tiene 27 libros y compra 15 más. ¿Cuántos libros tiene ahora?", "respuesta":42},
+  {"id":"c02", "pregunta":"En una clase hay 36 estudiantes. Se forman grupos de 4 estudiantes. ¿Cuántos grupos completos se forman?", "respuesta":9},
+  {"id":"c03", "pregunta":"Un artículo cuesta 80 dólares y tiene un descuento del 25 %. ¿Cuál es el precio final en dólares?", "respuesta":60},
+  {"id":"c04", "pregunta":"Un taxi cobra 3 dólares de base y 2 dólares por cada uno de 7 kilómetros. ¿Cuál es el costo total?", "respuesta":17},
+  {"id":"c05", "pregunta":"Ana tenía 54 cromos, regaló 18 y luego recibió 7. ¿Cuántos cromos tiene?", "respuesta":43},
+  {"id":"c06", "pregunta":"Un rectángulo mide 12 cm de largo y 5 cm de ancho. ¿Cuál es su área en cm²?", "respuesta":60},
+  {"id":"c07", "pregunta":"Se reparten 96 caramelos equitativamente entre 8 niños. ¿Cuántos recibe cada niño?", "respuesta":12},
+  {"id":"c08", "pregunta":"Un tren viaja 180 km en 3 horas a velocidad constante. ¿Cuál es su velocidad en km/h?", "respuesta":60},
+  {"id":"c09", "pregunta":"La suma de dos números es 31. Uno de ellos es 14. ¿Cuál es el otro?", "respuesta":17},
+  {"id":"c10", "pregunta":"Una tienda vende 6 paquetes de 9 cuadernos. ¿Cuántos cuadernos vende?", "respuesta":54}
+]
